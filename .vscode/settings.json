@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "bt_addr.h": "c",
+        "cstdint": "c",
+        "compare": "c"
+    }
+}
